@@ -8,6 +8,9 @@
 **Author:** Danny (PicoCTF 2019)  
 **Author Repository:** 6876h9
 
+![Challenge Problem Statement](Screenshot%20From%202026-07-05%2014-21-45.png)
+![Challenge Hints and Setup](Screenshot%20From%202026-07-05%2014-21-54.png)
+
 ---
 
 ## Problem Statement
